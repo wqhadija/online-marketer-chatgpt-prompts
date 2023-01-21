@@ -32,9 +32,13 @@ Product:
 Input:
 >write an article 'Lose Weight the healthy way' and CTA for readers to buy the ebook.
 
-## Write attractive ads for products exposure. 
+## Write attractive ads for products exposure 🦋
 Input:
 >Introducing the newest and most advanced smartphone on the market - the [Product Name]. With its sleek design and powerful features, it's sure to revolutionize the way you use your phone.
+
+## Write a brochure
+Input:
+>Are you tired of constantly buying bottled water? Invest in a [Product Name] water filter and enjoy clean and refreshing water straight from your tap.
 
 ## Attractivce Tweet post 🐦
 Input:
