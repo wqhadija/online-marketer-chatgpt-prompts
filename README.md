@@ -17,7 +17,6 @@ Input:
 >Write creative ads for the following products to run on Facebook targeting [audience/prospects] with [problems]
 Products:
 
-
 ## Facebook feed post to Invite Reader to Visit Blog/ Website 👓
 Input:
 >Write facebook feedpost to invite reader to visit website. Topic: 
@@ -28,7 +27,7 @@ Input:
 Product: 
 [List of product benefits]
 
-## Write Effective Article and Turn Reader to a Customer
+## Write Effective Article and Turn Reader to Customer
 Input:
 >write an article 'Lose Weight the healthy way' and CTA for readers to buy the ebook.
 
