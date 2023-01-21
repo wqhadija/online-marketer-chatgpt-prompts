@@ -3,7 +3,7 @@ A sales professional using ChatGPT to have natural and personalized conversation
 
 ## Product descriptions in E-commerce 🥀
 Input:
-> Write a attractive product reviews for an e-commerce marketplace. 
+> Write an attractive product reviews for an e-commerce marketplace. 
 Product: 
 [List of product benefits]
 
