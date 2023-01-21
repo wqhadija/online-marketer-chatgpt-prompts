@@ -28,7 +28,7 @@ Product:
 
 ## Write Effective Article and Turn Reader to a Customer
 Input:
->write an article 'Lose Weight the healthy way' and a CTA for readers to buy the ebook.
+>write an article 'Lose Weight the healthy way' and CTA for readers to buy the ebook.
 
 ## Attractivce Tweet post 🐦
 Input:
