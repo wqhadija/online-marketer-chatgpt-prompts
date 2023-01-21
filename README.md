@@ -1,32 +1,32 @@
 # 💦 Gorgeous ChatGpt-Prompts for Product Exposure
 A sales professional using ChatGPT to have natural and personalized conversations with leads, increasing the likelihood of closing deals.
 
-## Product descriptions in E-commerce
+## Product descriptions in E-commerce 🥀
 Input:
 > Write a attractive product desriptions for an e-commerce marketplace. 
 Product: 
 [List of product benefits]
 
-## Attractive Landing Page for certain products
+## Attractive Landing Page for certain products 🌷
 Input: Example eye-catching landing page template for dietary supplements 
 
-## Facebook Ads 
+## Facebook Ads 👁
 Input: 
 >Write creative ads for the following products to run on Facebook targeting [audience/prospects] with [problems]
 Products:
 
 
-## Facebook feed post to Invite Reader to Visit Blog/ Website
+## Facebook feed post to Invite Reader to Visit Blog/ Website 👓
 Input:
 >Write 
 
-## Reviews 
+## Reviews ⭐️⭐️⭐️⭐️⭐️
 Input:
 >Write a attractive product reviews. 
 Product: 
 [List of product benefits]
 
-## Attractivce Tweet post
+## Attractivce Tweet post 🐦
 Input:
 >Write Play on words or puns.
 Topic: Tech and Innovation
