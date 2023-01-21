@@ -32,6 +32,10 @@ Product:
 Input:
 >write an article 'Lose Weight the healthy way' and CTA for readers to buy the ebook.
 
+## Write attractive ads for products exposure. 
+Input:
+>Introducing the newest and most advanced smartphone on the market - the [Product Name]. With its sleek design and powerful features, it's sure to revolutionize the way you use your phone.
+
 ## Attractivce Tweet post 🐦
 Input:
 >Write Play on words or puns.
@@ -55,4 +59,4 @@ Topic: Tech and Innovation
 13. Whimsical and absurd humor
 14. Humorous takes on current events and news stories
 
-📍 Note: Will fix later
+📍 Note: will fix later
