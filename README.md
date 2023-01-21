@@ -18,13 +18,17 @@ Products:
 
 ## Facebook feed post to Invite Reader to Visit Blog/ Website 👓
 Input:
->Write 
+>Write facebook feedpost to invite reader to visit website. Topic: 
 
 ## Reviews ⭐️⭐️⭐️⭐️⭐️
 Input:
 >Write a attractive product reviews. 
 Product: 
 [List of product benefits]
+
+## Write Effective Article and Turn Reader to a Customer
+Input:
+>write an article 'Lose Weight the healthy way' and a CTA for readers to buy the ebook.
 
 ## Attractivce Tweet post 🐦
 Input:
