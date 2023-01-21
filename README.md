@@ -7,6 +7,8 @@ Input:
 Product: 
 [List of product benefits]
 
+[Example: This is how it turns out](https://epalblossom.wordpress.com/)
+
 ## Attractive Landing Page for certain products 🌷
 Input: Example eye-catching landing page template for dietary supplements 
 
