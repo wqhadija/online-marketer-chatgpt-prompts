@@ -10,7 +10,8 @@ Product:
 [Example: This is how it turns out](https://epalblossom.wordpress.com/2023/01/21/reviews-bioshifax-chewable-tablet-oriz/)
 
 ## Attractive Landing Page for certain products 🌷
-Input: Example eye-catching landing page template for dietary supplements 
+Input: 
+>Example eye-catching landing page template for dietary supplements 
 
 ## Facebook Ads 👁
 Input: 
