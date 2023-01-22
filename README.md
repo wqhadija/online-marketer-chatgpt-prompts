@@ -3,8 +3,8 @@ A sales professional using ChatGPT to have natural and personalized conversation
 
 ## Product ads 📝
 Example input: 
->Product name: "Smart Thermostat"
-Input: "Introduce a new, high-tech thermostat that allows for remote control and scheduling through a smartphone app. It also has built-in energy-saving features and can learn a user's preferred temperature settings over time."
+>Product name: "Chewable Tablet Luban Susu Kambing Bioshifax"
+Input: Luban Susu Kambing goat milk chewable tablet has been shown to increase intelligence and make people happier. It contains the benefits of niacin, vitamin E, magnesium, and calcium. It also contains cholecalciferol and folate."
 
 ## Product descriptions in E-commerce 🥀
 Input:
