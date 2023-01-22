@@ -1,7 +1,7 @@
 # 💦 Gorgeous ChatGpt-Prompts for Product Exposure
 A sales professional using ChatGPT to have natural and personalized conversations with leads, increasing the likelihood of closing deals.
 
-## Product ads
+## Product ads 📝
 Example input: 
 >Product name: "Smart Thermostat"
 Input: "Introduce a new, high-tech thermostat that allows for remote control and scheduling through a smartphone app. It also has built-in energy-saving features and can learn a user's preferred temperature settings over time."
