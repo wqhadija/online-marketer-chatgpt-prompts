@@ -68,4 +68,8 @@ Topic: Tech and Innovation
 13. Whimsical and absurd humor
 14. Humorous takes on current events and news stories
 
+## Catchy Tagline for Product Ads in The Photo
+Input:
+>attention-grabbing product dietary supplement for IQ and brain health ideas
+
 📍 Note: will fix later
