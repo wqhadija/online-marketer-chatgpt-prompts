@@ -1,4 +1,4 @@
-# 💦 Gorgeous ChatGpt-Prompts for Product Exposure
+# 💦 Skilled ChatGpt-Prompts for Product Exposure
 A sales professional using ChatGPT to have natural and personalized conversations with leads, increasing the likelihood of closing deals.
 
 ## Product ads 📝
