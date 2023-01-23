@@ -70,6 +70,6 @@ Topic: Tech and Innovation
 
 ## Catchy Tagline for Product Ads in The Photo
 Input:
->attention-grabbing product dietary supplement for IQ and brain health ideas
+>attention-grabbing product [dietary supplement for IQ and brain health] ideas
 
 📍 Note: will fix later
