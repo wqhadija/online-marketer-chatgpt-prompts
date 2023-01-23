@@ -72,4 +72,8 @@ Topic: Tech and Innovation
 Input:
 >attention-grabbing product [dietary supplement for IQ and brain health] ideas
 
+## Video Script
+Input:
+>video script: write a compelling informative video script. Topic:. Marked: no plagiarism.
+
 📍 Note: will fix later
