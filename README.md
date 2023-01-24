@@ -8,8 +8,8 @@ Input: Luban Susu Kambing goat milk chewable tablet has been shown to increase i
 
 ## Product descriptions in E-commerce 🥀
 Input:
-> Write an attractive product reviews for an e-commerce marketplace. 
-Product: 
+> Write an attractive product [] reviews for an e-commerce marketplace. 
+Product benefits: 
 [List of product benefits]
 
 [Example: This is how it turns out](https://epalblossom.wordpress.com/2023/01/21/reviews-bioshifax-chewable-tablet-oriz/)
