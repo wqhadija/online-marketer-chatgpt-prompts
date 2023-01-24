@@ -16,7 +16,7 @@ Product:
 
 ## Storytelling of The Product
 Input:
->storytelling to create compelling product descriptions and narratives with the following product. Product: 
+>write a compelling storytelling with the following product. Product:
 
 ## Attractive Landing Page for certain products 🌷
 Input: 
