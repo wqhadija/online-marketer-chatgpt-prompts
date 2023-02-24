@@ -96,7 +96,7 @@ Input:
 Input:
 > write an eye-catching Youtube thumbnail ideas for [your YT title]
 
-## Blog Title ideas
+## Photo for your article/blog
 Input:
 >write an attention-grabbing photo ideas for [blog title]
 
