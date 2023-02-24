@@ -37,15 +37,15 @@ Input:
 Product: 
 [List of product benefits]
 
-## Write Effective Article and Turn Reader to Customer
+## Write Effective Article and Turn Reader to Customer 🗞
 Input:
->write an article 'Lose Weight the healthy way' and CTA for readers to buy the ebook.
+>write SEO-friendly article with topic 'Lose Weight the healthy way' and CTA for readers to buy the ebook.
 
 ## Write attractive ads for products exposure 🦋
 Input:
 >Introducing the newest and most advanced smartphone on the market - the [Product Name]. With its sleek design and powerful features, it's sure to revolutionize the way you use your phone.
 
-## Write a brochure
+## Write a brochure 📜
 Input:
 >Are you tired of constantly buying bottled water? Invest in a [Product Name] water filter and enjoy clean and refreshing water straight from your tap.
 
@@ -72,15 +72,15 @@ Topic: Tech and Innovation
 13. Whimsical and absurd humor
 14. Humorous takes on current events and news stories
 
-## Catchy Tagline for Product Ads in The Photo
+## Catchy Tagline for Product Ads in The Photo 🖼
 Input:
 >attention-grabbing product [dietary supplement for IQ and brain health] ideas
 
-## Video Script
+## Video Script 🎥
 Input:
 >video script: write a compelling informative video script. Topic:. Marked: no plagiarism.
 
-## Impressive Product packaging ideas 
+## Impressive Product packaging ideas 🪔
 Input: 
 >attention-grabbing photo ads idea for Sacha Inchi Oil Bioshifax
 
