@@ -29,11 +29,11 @@ Products:
 
 ## Facebook feed post to Invite Reader to Visit Blog/ Website 👓
 Input:
->Write facebook feedpost to invite reader to visit website. Topic: 
+>Write a compelling facebook feed post to invite reader to visit website. Topic: 
 
 ## Reviews ⭐️⭐️⭐️⭐️⭐️
 Input:
->Write a attractive product reviews. 
+>Write an attractive product reviews. 
 Product: 
 [List of product benefits]
 
@@ -79,6 +79,10 @@ Input:
 ## Video Script
 Input:
 >video script: write a compelling informative video script. Topic:. Marked: no plagiarism.
+
+## Impressive Product packaging ideas 
+Input: 
+>attention-grabbing photo ads idea for Sacha Inchi Oil Bioshifax
 
 
 📍 Note: will fix later
