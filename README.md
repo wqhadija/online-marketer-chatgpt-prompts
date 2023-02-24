@@ -96,6 +96,12 @@ Input:
 Input:
 > write an eye-catching Youtube thumbnail ideas for [your YT title]
 
+## Blog Title ideas
+Input:
+>write an attention-grabbing photo ideas for [blog title]
+
+Note: this can be useful for your next article, blog, poem with fantastic looks of your content.
+
 📍 Note: will fix later
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
