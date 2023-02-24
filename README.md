@@ -100,7 +100,10 @@ Input:
 Input:
 >write an attention-grabbing photo ideas for [blog title]
 
+Example: [Take a look over here](https://www.buymeacoffee.com/rosieinreallife/attention-grabbing-photos-stand-out-the-crowd)
+
 Note: this can be useful for your next article, blog, poem with fantastic looks of your content.
+
 
 📍 Note: will fix later
 
