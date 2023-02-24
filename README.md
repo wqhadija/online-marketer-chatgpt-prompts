@@ -104,6 +104,9 @@ Example: [Take a look over here](https://www.buymeacoffee.com/rosieinreallife/at
 
 Note: this can be useful for your next article, blog, poem with fantastic looks of your content.
 
+## Ai Generative Photo Art
+[A collections Photo ideas helpers](https://easywithai.com/)
+
 
 📍 Note: will fix later
 
