@@ -78,7 +78,7 @@ Input:
 
 ## Video Script 🎥
 Input:
->video script: write a compelling informative video script. Topic:. Marked: no plagiarism.
+>video script: write a compelling informative video script. Topic:. Marked: no plagiarism. /((no plagiarism))
 
 ## Impressive Product packaging ideas 🪔
 Input: 
