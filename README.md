@@ -84,6 +84,17 @@ Input:
 Input: 
 >attention-grabbing photo ads idea for Sacha Inchi Oil Bioshifax
 
+## An Eye-catching Book cover ideas 📗
+Input:
+> write an eye-catching book cover ideas for [your book themes]
+
+## An Eye-catching Blog banner ideas 
+Input:
+> write an eye-catching blog banner cover ideas for [your blog/title themes]
+
+## Youtube thumbnails 
+Input:
+> write an eye-catching Youtube thumbnail ideas for [your YT title]
 
 📍 Note: will fix later
 
