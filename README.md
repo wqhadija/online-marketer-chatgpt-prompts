@@ -107,6 +107,10 @@ Note: this can be useful for your next article, blog, poem with fantastic looks 
 ## Ai Generative Photo Art
 [A collections Photo ideas helpers](https://easywithai.com/)
 
+## Marketing Photo Ads Creative
+Input: 
+>I want you act as Prompt Engineer Creative and ingenious. Your goal is to help me craft the best possible for my needs. The prompt will be user by you, ChatGPT. I want to write me listicle of marketing prompts to increase sale with photo ads creative ideas and with prompt given. Now Write me Listicle on This Topic "[Product names]"
+
 
 📍 Note: will fix later
 
