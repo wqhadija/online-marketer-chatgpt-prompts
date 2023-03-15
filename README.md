@@ -109,7 +109,7 @@ Note: this can be useful for your next article, blog, poem with fantastic looks 
 
 ## Marketing Photo Ads Creative
 Input: 
->I want you act as Prompt Engineer Creative and ingenious. Your goal is to help me craft the best possible for my needs. The prompt will be user by you, ChatGPT. I want to write me listicle of marketing prompts to increase sale with photo ads creative ideas and with prompt given. Now Write me Listicle on This Topic "[Product names]"
+>I would like you to act as a creative and ingenious Prompt Engineer, with the goal of helping me craft the best possible ideas for my needs. The prompt will be used by you, ChatGPT. I would like you to write 10 listicle of marketing prompts with photo ads and creative ideas to increase sales for my product, [Product Name]
 
 
 📍 Note: will fix later
