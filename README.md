@@ -3,39 +3,39 @@ A sales professional using ChatGPT to have natural and personalized conversation
 
 ## Headline of Products 📝
 Example input: 
-> Write a headline that highlights the key benefit of our product, <PRODUCT>, and sparks curiosity in potential customers. Our customers are <TARGET AUDIENCE>
+> Write a headline that highlights the key benefit of our product, [PRODUCT], and sparks curiosity in potential customers. Our customers are [TARGET AUDIENCE]
 
 ## Compelling CTA 🥀
 Input:
-> Craft a compelling call-to-action for our email campaign that encourages subscribers to take advantage of our limited-time offer on <PRODUCT>.
+> Craft a compelling call-to-action for our email campaign that encourages subscribers to take advantage of our limited-time offer on [PRODUCT].
 
 ## Captivating Slogan
 Input:
-> Develop a captivating slogan for our brand, <BRAND NAME>, that communicates our core values and mission in a memorable way. Our core values are <VALUES> and our mission is <MISSION>
+> Develop a captivating slogan for our brand, [BRAND NAME], that communicates our core values and mission in a memorable way. Our core values are [VALUES] and our mission is [MISSION]
 
 ## 3-Email Lead Nurture 🌷
 Input: 
->Write a 3-email lead nurture sequence outline for <TOPIC>. The first email should be an overview of <PRODUCT>. The second email should list our benefits, which are <BENEFITS>. The third email should convince users to <GOAL>
+>Write a 3-email lead nurture sequence outline for [TOPIC]. The first email should be an overview of [PRODUCT]. The second email should list our benefits, which are [BENEFITS]. The third email should convince users to [GOAL]
 
 ## Sales Email
 Input :
-> Create a sales email for customers who have shown interest in <PRODUCT>. Include a CTA of <GOAL>. Use a <TONE> tone.
+> Create a sales email for customers who have shown interest in [PRODUCT]. Include a CTA of [GOAL]. Use a [TONE] tone.
 
 ## captivating email Subject
 Input:
-> Write a captivating email subject line that grabs the recipient's attention and entices them to open the email to learn more about <TOPIC>.
+> Write a captivating email subject line that grabs the recipient's attention and entices them to open the email to learn more about [TOPIC].
 
 ## Target Audience
 Input:
-> Write a blog post that addresses the pain points of our target audience, <TARGET AUDIENCE>. The post should offer solutions to these pain points and highlight the benefits of our products or services.
+> Write a blog post that addresses the pain points of our target audience, [TARGET AUDIENCE]. The post should offer solutions to these pain points and highlight the benefits of our products or services.
 
 ## Social Media Ad
 Input:
-> Create a social media ad that targets our target audience, <TARGET AUDIENCE>. The ad should highlight the key benefits of our product or service and encourage users to click through to our website.
+> Create a social media ad that targets our target audience, [TARGET AUDIENCE]. The ad should highlight the key benefits of our product or service and encourage users to click through to our website.
 
 ## landing Page
 Input:
-> Write a landing page that is optimized for our target audience, <TARGET AUDIENCE>. The landing page should clearly explain the benefits of our product or service and make it easy for users to take action.
+> Write a landing page that is optimized for our target audience, [TARGET AUDIENCE]. The landing page should clearly explain the benefits of our product or service and make it easy for users to take action.
 
 ## Facebook Ads 👁
 Input: 
