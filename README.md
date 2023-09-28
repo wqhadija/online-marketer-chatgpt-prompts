@@ -21,7 +21,7 @@ Input:
 Input :
 > Create a sales email for customers who have shown interest in [PRODUCT]. Include a CTA of [GOAL]. Use a [TONE] tone.
 
-## captivating email Subject
+## Captivating email Subject
 Input:
 > Write a captivating email subject line that grabs the recipient's attention and entices them to open the email to learn more about [TOPIC].
 
@@ -33,9 +33,13 @@ Input:
 Input:
 > Create a social media ad that targets our target audience, [TARGET AUDIENCE]. The ad should highlight the key benefits of our product or service and encourage users to click through to our website.
 
-## landing Page
+## Landing Page
 Input:
 > Write a landing page that is optimized for our target audience, [TARGET AUDIENCE]. The landing page should clearly explain the benefits of our product or service and make it easy for users to take action.
+
+## Case Studies
+Input:
+> Write a case study that demonstrates the success of our [product or service]. The case study should highlight the challenges that the customer faced and how our product or service helped them to overcome those challenges.
 
 ## Facebook Ads 👁
 Input: 
