@@ -7,7 +7,7 @@ Example input:
 
 ## Compelling CTA 🥀
 Input:
-> Craft a compelling call-to-action for our email campaign that encourages subscribers to take advantage of our limited-time offer on <PRODUCT>
+> Craft a compelling call-to-action for our email campaign that encourages subscribers to take advantage of our limited-time offer on <PRODUCT>.
 
 ## Captivating Slogan
 Input:
