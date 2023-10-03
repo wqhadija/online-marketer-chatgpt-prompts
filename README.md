@@ -128,11 +128,11 @@ Note: this can be useful for your next article, blog, poem with fantastic looks 
 
 ## Marketing Photo Ads Creative
 Input: 
->I would like you to act as a creative and ingenious Prompt Engineer, with the goal of helping me craft the best possible ideas for my needs. The prompt will be used by you, ChatGPT. I would like you to write 10 listicle of marketing prompts with photo ads and creative ideas to increase sales for my product must be SEO-friendly, no-plagiarism, unique and would go viral, [Product Name]
+>Act as a creative and ingenious Prompt Engineer, with the goal of helping me craft the best possible ideas for my needs. The prompt will be used by you, ChatGPT. I would like you to write 10 listicle of marketing prompts with photo ads and creative ideas to increase sales for my product must be SEO-friendly, no-plagiarism, unique and would go viral, [Product Name]
 
 ## Marketing Engaging Video Ads Creative
 Input:
->I would like you to act as a creative and ingenious Prompt Engineer, with the goal of helping me craft the best possible ideas for my needs. The prompt will be used by you, ChatGPT. I would like you to write 10 listicle of marketing prompts with engaging video ads and creative ideas to increase sales for my product must be SEO-friendly, no-plagiarism, unique and would go viral, [Product Name]
+>Act as a creative and ingenious Prompt Engineer, with the goal of helping me craft the best possible ideas for my needs. The prompt will be used by you, ChatGPT. I would like you to write 10 listicle of marketing prompts with engaging video ads and creative ideas to increase sales for my product must be SEO-friendly, no-plagiarism, unique and would go viral, [Product Name]
 
 [Free SEO and Digital Marketing Tools](https://h-supertools.com?ref=IV49PH3648)
 
