@@ -139,3 +139,5 @@ Input:
 📍 Note: will fix later
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8CVBQA)
+
+[More ChatGPT Prompts](https://www.notion.so/ChatGPT-Organize-Prompts-For-Productivity-Content-Creators-4429e49aaf2841c5a915dd62686bb96d)
